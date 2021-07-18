@@ -1,0 +1,24 @@
+Tạo cơ sở dữ liệu chứa các bảng với các thông tin sau
+tblSinhVien:
+sv_Maso: số nguyên (khóa chính)
+sv_Hodem: 30 ký tự
+sv_Ten: 15 ký tự
+sv_Ngaysinh
+sv_Lop: số nguyên
+sv_DiemTB: Số thực gồm 2 chữ số nguyên và 1  số sau dấu phẩy
+tblLop
+l_ID: Số nguyên (khóa chính)
+l_Ten: 20 ký tự
+l_Khoa: Số nguyên
+tblKhoa
+k_ID: Số nguyên (khóa chính)
+k_Ten: 20 ký tự
+Mọi người phân tích mối quan hệ của 3 bảng và thêm khóa phụ để thể hiện mối quan hệ của mỗi bảng nhé.
+Nhập dữ liệu vào các bảng
+Liệt kê danh sách các sinh viên
+Liệt kê danh sách các sinh viên (họ tên viết liền)
+Liệt kê danh sách sinh viên: Mã số, họ đệm, tên, tuổi
+Liệt kê danh sách các lớp
+Liệt kê danh sách các khoa
+Tìm những sinh viên thuộc khoa CNTT
+(edited)
